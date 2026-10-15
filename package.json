@@ -1,0 +1,8 @@
+{
+  "name": "northstar-company-portal",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A role-based company portal for announcements, users, teams, and projects.",
+  "scripts": { "start": "node portal-server.js", "operations": "node server.js" },
+  "engines": { "node": ">=22.16.0" }
+}

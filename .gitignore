@@ -1,0 +1,12 @@
+company-portal.sqlite
+company-portal.sqlite-shm
+company-portal.sqlite-wal
+company-portal.json
+data.json
+node_modules/
+.env
+.env.*
+!.env.example
+vercel/.env
+.vercel/
+reference-source/
